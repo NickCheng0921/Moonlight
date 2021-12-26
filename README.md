@@ -1,2 +1,5 @@
 # Moonlight
-Golf analysis app to help my little brother improve
+Python Golf Statistics Program
+
+# How to Use
+Will be explained
